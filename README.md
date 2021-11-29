@@ -1,6 +1,6 @@
 ### Joabe Nascimento Santos
 ---
-### Software Developer Job Technology
+### Software Developer | Job Technology
 
 - 🌱 I’m currently learning React JS, React Native, Typescript, Clean Code
 
